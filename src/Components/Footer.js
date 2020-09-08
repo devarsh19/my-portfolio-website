@@ -9,6 +9,8 @@ class Footer extends Component {
       })
     }
 
+    const currentYear = new Date().getFullYear();
+
     return (
       <footer>
 
@@ -19,13 +21,13 @@ class Footer extends Component {
            </ul>
 
            <ul>
-            <li>Modified with love by the Clever Programmer team ♥️</li>
+            <li>Developed by Devarsh Patel with ♥️ for coding</li>
+              <li>&copy; Copyright {currentYear} Devarsh Patel</li>
            </ul>
 
-           <ul className="copyright">
-              <li>&copy; All credit goes to Tim Baker - Copyright 2017 Tim Baker</li>
+           {/* <ul className="copyright">
               <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>
-           </ul>
+           </ul> */}
 
         </div>
         <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open"></i></a></div>

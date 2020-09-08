@@ -1,72 +1,79 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
+    "name": "Devarsh Patel",
+    "occupation": "Full Stack Developer && Freelancer",
+    "description": "Experienced Full Stack Developer by Day, Investor && Freelancer by Night. #keepshining",
     "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "bio": "Hi, I am Devarsh Patel. You can call me Dev as I am a Full Stack Developer with expertise in Web and Mobile app development. My top skills includes React.js, React Native, CSS, Node.js and PHP. I would love to convert your business idea into real world business application. Feel free to contact me. ",
+    "contactmessage": "Get in touch with me to stay updated",
+    "email": "devarsh96patel@gmail.com",
+    "phone": "+1 (780) 499 8191",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "",
+      "city": "",
+      "state": "Ontario, Canada",
+      "zip": ""
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
-    "social": [
-      {
+    "website": "https://devarsh19.github.io/",
+    "resumedownload": "https://devarsh19.github.io/Devarsh%20final%20CV.pdf",
+    "social": [{
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/devarsh.patel.773/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/devarsh-patel-web-developer/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/go_dalhousiee/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "http://github.com/devarsh19",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
-    "education": [
-      {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
-      }
-    ],
-    "work": [
-      {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+    "skillmessage": "I am experienced Full Stack Developer with 2 years of well-rounded professional experience. Below are list of my top notch skills. Apart from technical skills I do have a solid understanding of MVC architecture, agile methodology and have a strong problem solving skills.",
+    "education": [{
+      "school": "Lakehead University",
+      "degree": "Masters in Computer Science",
+      "graduated": "June 2021",
+      "description": "Graduated with Distinction"
+    }],
+    "work": [{
+        "company": "The Versatile Express",
+        "title": "Full Stack Developer",
+        "years": "May 2020 - Present",
+        "description": "Developing real world delivery service app using React, Typescript, Node.js and React Native"
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "iTechNotion IT Solutions LLP",
+        "title": "Software Developer",
+        "years": "June 2018 - Aug 2019",
+        "description": "Responsible for developing dynamic websites and involed in all aspects of software development ranging from database design to product deployment which also includes client meetings, code reviews and quality assurance."
       }
     ],
-    "skills": [
-      {
+    "skills": [{
         "name": "ReactJs",
         "level": "100%"
+      },
+      {
+        "name": "ReactNative",
+        "level": "70%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "75%"
+      },
+      {
+        "name": "PHP",
+        "level": "95%"
       },
       {
         "name": "CSS",
@@ -74,35 +81,34 @@
       },
       {
         "name": "Git",
-        "level": "60%"
+        "level": "80%"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
+        "name": "NodeJs",
+        "level": "75%"
       },
       {
         "name": "HTML5",
-        "level": "80%"
+        "level": "100%"
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "SQL",
+        "level": "90%"
       }
     ]
   },
   "portfolio": {
-    "projects": [
-      {
+    "projects": [{
         "title": "MERN Stack WhatsApp Clone",
         "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
         "image": "whatsapp-mern.jpeg",
         "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "title": "Dark theme based Portfolio",
+        "category": "Portfolio website built using pure HTML, CSS and JavaScript and hosted on github pages",
         "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "url": "https://devarsh19.github.io/"
       },
       {
         "title": "Facebook Clone with React",
@@ -125,14 +131,13 @@
     ]
   },
   "testimonials": {
-    "testimonials": [
-      {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+    "testimonials": [{
+        "text": "I wish him best for his Master's in Canada. Hope he will continue working for our company software which he made so neat and easy to use. I and my employees will thankful for him for making great user friendly HR system for our company.",
+        "user": "Bill Crose"
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "Devarsh must be one of the most brilliant developers I've ever met! It was amazing to work with him. The way he involve in my business working before developing my event firm website is making him ideal freelancer. Wishing you more success Devarsh!",
+        "user": "Adam Balmore"
       }
     ]
   }
