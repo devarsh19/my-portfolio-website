@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
+import emailjs from 'emailjs-com';
 
 const Contact = ({ data }) => {
-   const [url, setUrl] = useState('mailto:test@example.com?subject=subject&body=body');
    const [name, setName] = useState('');
    const [subject, setSubject] = useState('');
    const [email, setEmail] = useState('');
@@ -9,9 +9,28 @@ const Contact = ({ data }) => {
 
    console.log(data)
 
-    const handleClick = (e) => {
-       e.preventDefault();
-      window.open(`mailto:${email}?subject=${subject}&body=${name}: ${message}`);
+    const onSubmitHandler = async (e) => {
+      e.preventDefault();
+
+      const templateParams = {
+         from_name: `${name} (${email})`,
+         to_name: "Devarsh",
+         message: message
+       };
+   
+      const emailResult = await emailjs.send("service_5mnu0qu", "template_ovcvfpr", templateParams, "user_ES8gxT4rYp1cViFmNASTP");
+      console.log(emailResult);
+      if (emailResult) {
+         console.log("your message successfully send to the admin");
+      }
+      else {
+      console.log("something went wrong!");
+      }
+
+      setName('');
+      setSubject('');
+      setEmail('');
+      setMessage('');
     }
     
 
@@ -61,7 +80,7 @@ const Contact = ({ data }) => {
                   </div>
 
                   <div>
-                     <button type='submit' onClick={handleClick} className="submit">Submit</button>
+                     <button type='submit' onClick={onSubmitHandler} className="submit">Submit</button>
                      <span id="image-loader">
                         <img alt="" src="images/loader.gif" />
                      </span>
