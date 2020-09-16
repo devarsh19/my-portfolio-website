@@ -3,19 +3,19 @@
     "name": "Devarsh Patel",
     "occupation": "Full Stack Developer && Freelancer",
     "description": "Experienced Full Stack Developer by Day, Investor && Freelancer by Night. #keepshining",
-    "image": "IG_Sonny.jpeg",
+    "image": "devarsh-fb.jpeg",
     "bio": "Hi, I am Devarsh Patel. You can call me Dev as I am a Full Stack Developer with expertise in Web and Mobile app development. My top skills includes React.js, React Native, CSS, Node.js and PHP. I would love to convert your business idea into real world business application. Feel free to contact me. ",
     "contactmessage": "Get in touch with me to stay updated",
     "email": "devarsh96patel@gmail.com",
     "phone": "+1 (780) 499 8191",
     "address": {
       "street": "",
-      "city": "",
+      "city": "Toronto",
       "state": "Ontario, Canada",
       "zip": ""
     },
     "website": "https://devarsh19.github.io/",
-    "resumedownload": "https://devarsh19.github.io/Devarsh%20final%20CV.pdf",
+    "resumedownload": "https://devarsh19.github.io/Devarsh_Patel_resume.pdf",
     "social": [{
         "name": "facebook",
         "url": "https://www.facebook.com/devarsh.patel.773/",
@@ -99,34 +99,34 @@
   },
   "portfolio": {
     "projects": [{
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "City Directory",
+        "category": "City directory to show neary by places, restaurants, and other useful stuf around the city using google place API",
+        "image": "city_directory_app.png",
+        "url": "http://itechnotion.in/city-directory/"
       },
       {
         "title": "Dark theme based Portfolio",
         "category": "Portfolio website built using pure HTML, CSS and JavaScript and hosted on github pages",
-        "image": "tiktok-mern.jpeg",
+        "image": "portfolio_dark_cover.png",
         "url": "https://devarsh19.github.io/"
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+        "title": "Company Website and Delivery app",
+        "category": "Delivery service app using React.js, Node.js,React-Native and TypeScript",
+        "image": "versatile.png",
+        "url": "http://www.theversatileexpress.ca/"
       },
       {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+        "title": "Pythia - SAAS for Wireless instruction device",
+        "category": "Back-end and Admin Panel for organization",
+        "image": "pythia.png",
+        "url": "https://www.adytonusa.com/"
       },
       {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
+        "title": "Amazon Clone",
+        "category": "Currently building Amazon clone for fun",
         "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "url": "#"
       }
     ]
   },
