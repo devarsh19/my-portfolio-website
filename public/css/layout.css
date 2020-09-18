@@ -203,7 +203,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #about p {
    line-height: 30px;
-   color: #7A7A7A;
+   color: #fff;
 }
 #about .profile-pic {
    position: relative;
@@ -268,10 +268,16 @@ ul#nav li.current a { color: #F06000; }
 }
 #resume .info {
    font: 16px/24px 'librebaskerville-italic', serif;
-   color: #6E7881;
+   color: black;
    margin-bottom: 18px;
    margin-top: 9px;
 }
+
+#resume .description {
+   color: black;
+   font-weight: 500;
+}
+
 #resume .info span {
    margin-right: 5px;
    margin-left: 5px;
@@ -284,7 +290,6 @@ ul#nav li.current a { color: #F06000; }
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/
-
 .bars {
 	width: 95%;
 	float: left;
@@ -304,7 +309,7 @@ ul#nav li.current a { color: #F06000; }
 }
 .bars li em {
 	font: 15px 'opensans-bold', sans-serif;
-   color: #313131;
+   color: black;
 	text-transform: uppercase;
    letter-spacing: 2px;
 	font-weight: normal;
@@ -323,6 +328,11 @@ ul#nav li.current a { color: #F06000; }
   	height: 42px;
    line-height: 42px;
    border-radius: 3px 0 0 3px;
+}
+
+.description {
+   color: black;
+   font-weight: 500;
 }
 /*
 .git {
@@ -427,7 +437,7 @@ ul#nav li.current a { color: #F06000; }
    letter-spacing: 1px;
    text-align: center;
    margin-bottom: 48px;
-   color: #95A3A3;
+   color: black;
 }
 
 #portfolio-wrapper {
@@ -594,7 +604,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #call-to-action {
-   background: #212121;
+   background: black;
    padding-top: 66px;
    padding-bottom: 48px;
 }
@@ -627,7 +637,7 @@ ul#nav li.current a { color: #F06000; }
    color: inherit;
 }
 #call-to-action p {
-   color: #636363;
+   color: black;
    font-size: 17px;
 }
 /*#
@@ -803,7 +813,7 @@ call-to-action .button {
    background: #191919;
    padding-top: 96px;
    padding-bottom: 102px;
-   color: #636363;
+   color: #fff;
 }
 #contact .section-head { margin-bottom: 42px; }
 
@@ -868,7 +878,7 @@ call-to-action .button {
 #contact textarea:focus,
 #contact select:focus {
 	color: #fff;
-	background-color: #11ABB0;
+	background-color: #232e2e;
 }
 #contact button.submit {
 	text-transform: uppercase;
@@ -887,7 +897,7 @@ call-to-action .button {
 	background: #fff;
 }
 #contact span.required {
-	color: #11ABB0;
+	color: #db374d;
 	font-size: 13px;
 }
 #message-warning, #message-success {
@@ -899,7 +909,7 @@ call-to-action .button {
    margin-left: 26%;
 }
 #message-warning { color: #D72828; }
-#message-success { color: #11ABB0; }
+#message-success { color: #fff; }
 
 #message-warning i,
 #message-success i {
@@ -939,7 +949,7 @@ call-to-action .button {
 footer {
    padding-top: 48px;
    margin-bottom: 48px;
-   color: #303030;
+   color: #fff;
    font-size: 14px;
    text-align: center;
    position: relative;
@@ -966,7 +976,7 @@ footer .copyright li:before {
     content: "\2022";
     padding-left: 10px;
     padding-right: 10px;
-    color: #095153;
+    color: #fff;
 }
 footer .copyright  li:first-child:before {
     display: none;

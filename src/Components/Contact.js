@@ -41,9 +41,10 @@ const Contact = ({ data }) => {
 
             <div className="two columns header-col">
 
-               <h1><span>Get In Touch.</span></h1>
+                <h1><span>Get In Touch.</span></h1>
 
             </div>
+            <p>Submit your message/inquiry it will directly arrived in my email and I'll get back to you ASAP.</p>
 
             <div className="ten columns">
 

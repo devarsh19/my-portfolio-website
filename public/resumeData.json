@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Devarsh Patel",
-    "occupation": "Full Stack Developer && Freelancer",
-    "description": "Experienced Full Stack Developer by Day, Investor && Freelancer by Night. #keepshining",
-    "image": "devarsh-fb.jpeg",
-    "bio": "Hi, I am Devarsh Patel. You can call me Dev as I am a Full Stack Developer with expertise in Web and Mobile app development. My top skills includes React.js, React Native, CSS, Node.js and PHP. I would love to convert your business idea into real world business application. Feel free to contact me. ",
+    "occupation": "Experienced Full Stack Developer",
+    "description": "Currently taking Master's in Computer Science. Looking for full-time role in Software Development starting June 2021. Lover of code, coffee and dog",
+    "image": "devarsh-fb.jpg",
+    "bio": "Hi, I am Devarsh Patel. I am a Full Stack Developer with expertise in Web and Mobile app development. My top skills includes React.js, React Native, CSS, Node.js and PHP. I would love to convert business idea into real world business application. I do enjoy working on complex problems and chanllenging tasks.",
     "contactmessage": "Get in touch with me to stay updated",
     "email": "devarsh96patel@gmail.com",
     "phone": "+1 (780) 499 8191",
@@ -23,7 +23,7 @@
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/devarsh-patel-web-developer/",
+        "url": "https://www.linkedin.com/in/devarsh19/",
         "className": "fa fa-linkedin"
       },
       {
@@ -39,33 +39,43 @@
     ]
   },
   "resume": {
-    "skillmessage": "I am experienced Full Stack Developer with 2 years of well-rounded professional experience. Below are list of my top notch skills. Apart from technical skills I do have a solid understanding of MVC architecture, agile methodology and have a strong problem solving skills.",
+    "skillmessage": "I am experienced Full Stack Developer with 2 years of well-rounded professional experience. Below are list of my top notch skills. Apart from technical skills I do have a solid understanding of MVC architecture, worked on agile methodology and have a strong problem solving skills.",
     "education": [{
       "school": "Lakehead University",
       "degree": "Masters in Computer Science",
       "graduated": "June 2021",
-      "description": "Graduated with Distinction"
+      "description": "Currently in the final year. Member of Lakehead International Peer Mentor Program."
     }],
     "work": [{
         "company": "The Versatile Express",
         "title": "Full Stack Developer",
         "years": "May 2020 - Present",
-        "description": "Developing real world delivery service app using React, Typescript, Node.js and React Native"
+        "description": [
+          "Working with the team remotely on a delivery service app using Node.js & Express.js for back-end.",
+          "Built reusable UI components using React.js, TypeScript and used Redux for state management.",
+          "Implemented complete workflow of making an order from the app and managed transaction statuses.",
+          "Leveraged various AWS services such as S3, EC2 and Lambda functions."
+        ]
       },
       {
         "company": "iTechNotion IT Solutions LLP",
         "title": "Software Developer",
         "years": "June 2018 - Aug 2019",
-        "description": "Responsible for developing dynamic websites and involed in all aspects of software development ranging from database design to product deployment which also includes client meetings, code reviews and quality assurance."
+        "description": [
+          "Responsible for developing dynamic websites and involed in all aspects of software development ranging from database design to product deployment.",
+          "Worked on enterprise level projects using agile methodology in PHP MVC architecture.",
+          "Converted high level requirements into best user experience by writing optimized back-end code.",
+          "Delivered scalable software in a timely manner and used project management tools."
+        ]
       }
     ],
     "skills": [{
         "name": "ReactJs",
-        "level": "100%"
+        "level": "90%"
       },
       {
         "name": "ReactNative",
-        "level": "70%"
+        "level": "80%"
       },
       {
         "name": "NodeJs",
@@ -77,7 +87,7 @@
       },
       {
         "name": "CSS",
-        "level": "95%"
+        "level": "90%"
       },
       {
         "name": "Git",
@@ -85,7 +95,7 @@
       },
       {
         "name": "NodeJs",
-        "level": "75%"
+        "level": "85%"
       },
       {
         "name": "HTML5",
