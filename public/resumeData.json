@@ -2,12 +2,12 @@
   "main": {
     "name": "Devarsh Patel",
     "occupation": "Experienced Full Stack Developer",
-    "description": "Currently taking Master's in Computer Science. Looking for full-time role in Software Development starting June 2021. Lover of code, coffee and dog",
+    "description": "Currently taking Master's. Looking for full-time role in Software Development starting June 2021. Lover of code, coffee and dog",
     "image": "devarsh-fb.jpg",
     "bio": "Hi, I am Devarsh Patel. I am a Full Stack Developer with expertise in Web and Mobile app development. My top skills includes React.js, React Native, CSS, Node.js and PHP. I would love to convert business idea into real world business application. I do enjoy working on complex problems and chanllenging tasks.",
     "contactmessage": "Get in touch with me to stay updated",
-    "email": "devarsh96patel@gmail.com",
-    "phone": "+1 (780) 499 8191",
+    "email": "",
+    "phone": "",
     "address": {
       "street": "",
       "city": "Toronto",
@@ -18,7 +18,7 @@
     "resumedownload": "https://devarsh19.github.io/Devarsh_Patel_resume.pdf",
     "social": [{
         "name": "facebook",
-        "url": "https://www.facebook.com/devarsh.patel.773/",
+        "url": "",
         "className": "fa fa-facebook"
       },
       {
@@ -41,15 +41,15 @@
   "resume": {
     "skillmessage": "I am experienced Full Stack Developer with 2 years of well-rounded professional experience. Below are list of my top notch skills. Apart from technical skills I do have a solid understanding of MVC architecture, worked on agile methodology and have a strong problem solving skills.",
     "education": [{
-      "school": "Lakehead University",
+      "school": "",
       "degree": "Masters in Computer Science",
-      "graduated": "June 2021",
-      "description": "Currently in the final year. Member of Lakehead International Peer Mentor Program."
+      "graduated": "2021",
+      "description": ""
     }],
     "work": [{
         "company": "The Versatile Express",
-        "title": "Full Stack Developer",
-        "years": "May 2020 - Present",
+        "title": "Full Stack Developer Co-op",
+        "years": "May 2020",
         "description": [
           "Working with the team remotely on a delivery service app using Node.js & Express.js for back-end.",
           "Built reusable UI components using React.js, TypeScript and used Redux for state management.",
